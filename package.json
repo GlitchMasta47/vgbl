@@ -1,0 +1,19 @@
+{
+  "name": "vgbl",
+  "version": "0.0.1",
+  "description": "A mediocre Discord bot library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlitchMasta47/vgbl.git"
+  },
+  "author": "GlitchMasta47",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GlitchMasta47/vgbl/issues"
+  },
+  "homepage": "https://github.com/GlitchMasta47/vgbl#readme"
+}

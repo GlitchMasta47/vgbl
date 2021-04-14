@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GlitchMasta47/vgbl/issues"
   },
-  "homepage": "https://github.com/GlitchMasta47/vgbl#readme"
+  "homepage": "https://github.com/GlitchMasta47/vgbl#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
